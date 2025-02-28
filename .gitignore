@@ -1,0 +1,11 @@
+ManageCustomer.Api/bin
+ManageCustomer.Api/obj
+
+ManageCustomer.Application/bin
+ManageCustomer.Application/obj
+
+ManageCustomer.Domain/bin
+ManageCustomer.Domain/obj
+
+ManageCustomer.Infrastructure/bin
+ManageCustomer.Infrastructure/obj
